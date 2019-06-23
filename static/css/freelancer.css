@@ -507,7 +507,7 @@ fieldset[disabled] .btn-success.active {
   position: absolute;
   left: 0px;
   top: 0px;
-  background: #18BC9C;
+  background: #0F265E;
   outline: 0;
   transition: top 0.1s ease-in, background 0.5s linear;
 }
